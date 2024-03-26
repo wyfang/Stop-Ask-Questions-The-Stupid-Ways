@@ -4,10 +4,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ## 短域名服务
 
-+ https://git.io/how-to-ask
-+ https://git.io/asking-question
-+ https://git.io/stop-stupid
-
++ https://csgo.ink/how-to-ask
 
 ## 你真的准备好了吗？
 
@@ -17,7 +14,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ## 避免 xy-problem
 
-+ 参考地址: http://xyproblem.info/
++ 参考地址: https://blog.wangyifang.com/xy-problem/
 
 `XY Problem` 表示
 1. 提问者想要解决 **原问题 X** ，且觉得解决了 **引申问题 Y** 就能解决 **X** 问题
